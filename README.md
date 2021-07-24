@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jayasuriya007
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning information technology
+- 👋 Hi, I’m Jayasuriya
+- 👀 I’m interested in cybersecurity
+
 
 
 <!---
